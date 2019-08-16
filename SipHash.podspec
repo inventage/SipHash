@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name         = 'SipHash'
-    spec.version      = '1.2.2'
-    spec.ios.deployment_target = "8.0"
+    spec.version      = '1.2.3'
+    spec.ios.deployment_target = "10.0"
     spec.osx.deployment_target = "10.9"
     spec.tvos.deployment_target = "9.0"
     spec.watchos.deployment_target = "2.0"

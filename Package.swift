@@ -19,5 +19,5 @@ let package = Package(
         .target(name: "SipHash", dependencies: [], path: "SipHash"),
         .testTarget(name: "SipHashTests", dependencies: ["SipHash"], path: "SipHashTests")
     ],
-    swiftLanguageVersions: [4]
+    swiftLanguageVersions: [5]
 )
